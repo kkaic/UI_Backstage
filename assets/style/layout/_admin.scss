@@ -1,0 +1,81 @@
+
+.fa-plus {
+  color: green;
+}
+
+.add-btn {
+  margin-left: 46px;
+  span {
+    font-weight: bold;
+    margin-left: 8px;
+  }
+}
+
+.fa-exclamation-triangle {
+  color: red;
+}
+
+.triangle-all {
+  margin-bottom: 18px;
+}
+
+.triangle {
+  margin-left: 10px;
+  span {
+    font-weight: bold;
+  }
+}
+
+.verification {
+  width: 100%;
+}
+
+.btn-add {
+  background: #2a8356 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  width: 105px;
+}
+
+.form-check {
+  margin-bottom: 21px;
+}
+
+.table {
+  .fas {
+    margin-left: 25px;
+  }
+}
+
+.info-img {
+  width: 141px;
+  height: 141px;
+}
+
+.modal-content{
+position: relative;
+}
+.modal-header-info{
+  position: absolute;
+  top:5px;
+}
+
+.verified{
+  margin-right: 32px;
+  span{
+    font-size: 14px;
+    background-color: #EDF4EE;
+    padding: 5px 10px;
+  }
+  i{
+    color: #2a8356;
+  }
+}
+
+.deactivate{
+  color:red;
+}
+
+.check{
+     color: #2a8356;
+ 
+}

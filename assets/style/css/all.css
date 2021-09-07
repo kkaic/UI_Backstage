@@ -1,0 +1,219 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+.green-bg {
+  background-color: #edf4ee;
+}
+
+.menu {
+  background-color: #edf4ee;
+  position: fixed;
+  width: 296px;
+}
+
+.menu .nav-img {
+  margin-top: 40px;
+}
+
+.menu .nav-link {
+  margin-left: 32px;
+  color: #000000;
+}
+
+.menu i {
+  width: 22px;
+}
+
+.menu .menu-now {
+  color: #2A8356;
+}
+
+main {
+  width: 70%;
+  margin-left: 328px;
+}
+
+main .title {
+  margin: 32px 0;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .title .dropdown-title {
+  margin-left: 46px;
+  color: #000000;
+}
+
+main .list-group {
+  width: 40%;
+}
+
+main .list-group .active {
+  background-color: #edf4ee;
+  color: #000;
+}
+
+main .right {
+  width: 70%;
+  margin-left: 16px;
+}
+
+main .right .card {
+  height: 587px;
+}
+
+main .right .card .media-emily img,
+main .right .card .media-Andy img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+main .active {
+  background-color: #edf4ee;
+  color: #000;
+}
+
+main p {
+  margin: 0;
+}
+
+main .lighten {
+  font-size: 12px;
+  line-height: 20px;
+  color: #0000009a;
+}
+
+main .sub-title,
+main .main-title span {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+main .main-title {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+}
+
+main .meaasge {
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 16px;
+}
+
+main .zip {
+  width: 176px;
+  background: #edf4ee;
+  border: 1px solid #cdddcd;
+  border-radius: 2px;
+}
+
+main .zip p {
+  padding: 10px 16px;
+}
+
+main .btn-all {
+  padding: 0;
+}
+
+main .btn-below {
+  margin: 16px 0 0 16px;
+}
+
+main .btn-reply {
+  background: #2a8356 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  width: 105px;
+}
+
+.title-icon i {
+  padding-left: 26px;
+}
+
+.fa-plus {
+  color: green;
+}
+
+.add-btn {
+  margin-left: 46px;
+}
+
+.add-btn span {
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.fa-exclamation-triangle {
+  color: red;
+}
+
+.triangle-all {
+  margin-bottom: 18px;
+}
+
+.triangle {
+  margin-left: 10px;
+}
+
+.triangle span {
+  font-weight: bold;
+}
+
+.verification {
+  width: 100%;
+}
+
+.btn-add {
+  background: #2a8356 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  width: 105px;
+}
+
+.form-check {
+  margin-bottom: 21px;
+}
+
+.table .fas {
+  margin-left: 25px;
+}
+
+.info-img {
+  width: 141px;
+  height: 141px;
+}
+
+.modal-content {
+  position: relative;
+}
+
+.modal-header-info {
+  position: absolute;
+  top: 5px;
+}
+
+.verified {
+  margin-right: 32px;
+}
+
+.verified span {
+  font-size: 14px;
+  background-color: #EDF4EE;
+  padding: 5px 10px;
+}
+
+.verified i {
+  color: #2a8356;
+}
+
+.deactivate {
+  color: red;
+}
+
+.check {
+  color: #2a8356;
+}
+/*# sourceMappingURL=all.css.map */
